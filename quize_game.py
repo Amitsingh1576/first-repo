@@ -2,7 +2,7 @@ print("welcome to my quize game!")
 playing = input("do you want to pla??: ")
 
 if playing.lower() != "yes":
-    quit()
+    quit() # this is for quitting the game
 
 print("okay! lets play")
 score = 0
